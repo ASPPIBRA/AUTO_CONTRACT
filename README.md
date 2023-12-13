@@ -1,9 +1,5 @@
 # AUTO_CONTRACT
 
-# meu whatssap +55 21 998800982
-
-
-
 
 ## Automação de geração de contratos
 
