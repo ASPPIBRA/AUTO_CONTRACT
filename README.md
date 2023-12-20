@@ -1,5 +1,6 @@
 # AUTO_CONTRACT
 
+# Meu telegram https://t.me/Sandro_Rio
 
 ## Automação de geração de contratos
 
