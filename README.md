@@ -1,7 +1,5 @@
 # AUTO_CONTRACT
 
-# Meu telegram https://t.me/Sandro_Rio
-
 ## Automação de geração de contratos
 
 Este projeto implementa um sistema automatizado para geração de contratos. O sistema funciona da seguinte forma:
