@@ -1,30 +1,34 @@
-# AUTO_CONTRACT
+# SELF_CONTRACT 📝
 
-## Automação de geração de contratos
+## Contract generation automation 🤖
 
-Este projeto implementa um sistema automatizado para geração de contratos. O sistema funciona da seguinte forma:
+This project implements an automated system for generating contracts. The system works as follows:
 
-    1. O usuário preenche um formulário HTML com as informações do contrato. (Sandro)
-    2. Os dados do formulário são válidados e salvos no formato JSON em um banco de dados. (Daniel)
-    3. O modelo do contrato é preenchido com as informações já validadas do banco de dados. (Daniel)
-    4. O layout de impressão do contrato é exibido para o usuário. (Sandro ou Daniel)
-    5. O usuário pode clicar em um botão para gerar um PDF do contrato. (Sandro ou Daniel)
+- 📄 The user fills out an HTML form with the contract information.
+- 💾 Form data is saved in JSON format in a database.
+- ✅ Database information is validated.
+- 📋 The contract template is populated with validated information from the database.
+- 🖨️ The contract print layout is displayed to the user.
+- 📥 The user can click a button to generate a PDF of the contract.
 
-/automacao-contrato
+### Project Structure 🏗️
+
+```plaintext
+/automation-contract
 ├── code
 │   ├── contracts
-│   │   ├── associado
-│   │   │   └── associado.html
-│   │   │   └── associado.css
-│   │   ├── venda_carro
-│   │   │   └── venda_carro.html
-│   │   │   └── venda_carro.css
-│   │   ├── venda_casa
-│   │   │   └── venda_casa.html
-│   │   │   └── venda_casa.css
-│   │   └── venda_terreno
-│   │       └── venda_terreno.html
-│   │       └── venda_terreno.css
+│   │   ├── associate
+│   │   │   └── associated.html
+│   │   │   └── associated.css
+│   │   ├── car_sale
+│   │   │   └── sale_car.html
+│   │   │   └── sale_car.css
+│   │   ├── house_sale
+│   │   │   └── sale_casa.html
+│   │   │   └── sale_casa.css
+│   │   └── land_sale
+│   │       └── sale_land.html
+│   │       └── sale_land.css
 │   ├── forms
 │   │   └── contract_form.py
 │   └── services
@@ -41,7 +45,6 @@ Este projeto implementa um sistema automatizado para geração de contratos. O s
 │   └── test_contract_generation.py
 └── assets
     ├── images
-    │   ├── associado.jpg
-    │   ├── venda_carro.png
-    │   └── venda_casa.pdf
-    
+    │   ├── associated.jpg
+    │   ├── sale_carro.png
+    │   └── sale_casa.pdf
