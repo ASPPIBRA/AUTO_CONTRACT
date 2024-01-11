@@ -49,7 +49,7 @@
             "country": "Brazil (BR)"
         },
         "registration_number": {
-            "city ​_hall": "000000000000000000",
+            "city ​_hall": "369835000",
             "Notary_office": "00000000000000"
         },
         "area": {
@@ -162,8 +162,9 @@
     },
     "onus_reais": {
         "value": "Description of the Onus Reais exclusive area",
-        "link": "URL",
-        "electronic_seal": "00000000000000hats"
+        "link": "www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "electronic_seal": "EDWG85399",
+        "random_code": "AXN"
     },
     "notarial_minutes": {
         "value": "Description of the Onus Reais exclusive area",
