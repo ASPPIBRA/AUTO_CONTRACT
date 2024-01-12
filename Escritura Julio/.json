@@ -134,6 +134,7 @@
     "city_hall": {
         "address": {
             "street": "Av. Presidente Kennedy",
+            "number": "00",
             "block": "00",
             "lot": "00",
             "neighborhood": "Estrela do Norte",
@@ -165,16 +166,26 @@
         "book": "02",
         "Registration": "4807",
         "date of certificate": "16/07/2021",
-        "value": "Description of the Onus Reais exclusive area",
+        "value": "Description",
         "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
         "electronic_seal": "EDWG85399",
         "random_code": "AXN"
+    },
+    "Declaration": {
+        "book": "8017",        
+        "sheet": "182/183",
+        "date of certificate": "13/11/2017",
+        "value": "Description",
+        "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "electronic_seal": "ECIT57306",
+        "random_code": "LRG"
     },
     "notarial_minutes": {
         "book": "275",
         "act": "136",
         "sheet": "155/156",
-        "value": "Description of the Onus Reais exclusive area",
+        "date of certificate": "15/01/2019",
+        "value": "Description",
         "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
         "electronic_seal": "ECVY45835",
         "random_code": "XYA"
