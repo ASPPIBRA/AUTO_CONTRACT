@@ -50,7 +50,7 @@
         },
         "registration_number": {
             "city ​_hall": "369835000",
-            "Notary_office": "00000000000000"
+            "Notary_office": "4.807"
         },
         "area": {
             "total_size": "1,100.00 M²",
@@ -151,6 +151,7 @@
         },
         "address": {
             "street": "Antônio Alves",
+            "number": "99",
             "block": "00",
             "lot": "00",
             "neighborhood": "Alcântara",
@@ -161,15 +162,22 @@
         "CNPJ": "30.594.527/0001-52"
     },
     "onus_reais": {
+        "book": "02",
+        "Registration": "4807",
+        "date of certificate": "16/07/2021",
         "value": "Description of the Onus Reais exclusive area",
-        "link": "www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
         "electronic_seal": "EDWG85399",
         "random_code": "AXN"
     },
     "notarial_minutes": {
+        "book": "275",
+        "act": "136",
+        "sheet": "155/156",
         "value": "Description of the Onus Reais exclusive area",
-        "link": "URL",
-        "electronic_seal": "00000000000000hats"
+        "link": "https://www4.tjrj.jus.br/Portal-Extrajudicial/consultaselo/",
+        "electronic_seal": "ECVY45835",
+        "random_code": "XYA"
     },
     "judicial_note": {
         "value": "Description of the Onus Reais exclusive area",
