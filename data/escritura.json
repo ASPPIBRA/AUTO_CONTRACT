@@ -103,7 +103,7 @@
         }
     },
     "house_plans": {
-        "value": "Your Unique Area Description with House Plans",
+        "value": "Description",
         "plans": {
             "house_plan": "URL to the house plan",
             "engineering_plan": [
